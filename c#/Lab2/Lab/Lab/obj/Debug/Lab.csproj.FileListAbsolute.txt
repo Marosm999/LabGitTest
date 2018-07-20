@@ -1,0 +1,14 @@
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\Мария\Desktop\ПОЛИТЕХ\Шарп\Lab2\Lab\Lab\obj\Debug\Lab.pdb
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\bin\Debug\Lab.exe.config
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\bin\Debug\Lab.exe
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\bin\Debug\Lab.pdb
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\obj\Debug\Lab.csproj.CoreCompileInputs.cache
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\obj\Debug\Lab.exe
+F:\ПОЛИТЕХ2\3 семестр\SHARP\Lab2\Lab\Lab\obj\Debug\Lab.pdb

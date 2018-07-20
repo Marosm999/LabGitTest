@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfCard xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Card>
+    <_id>run</_id>
+    <_typeW>Verb</_typeW>
+    <_translate>
+      <string>бежать</string>
+    </_translate>
+  </Card>
+  <Card>
+    <_id>program</_id>
+    <_typeW>Noun</_typeW>
+    <_translate>
+      <string>программа</string>
+    </_translate>
+  </Card>
+  <Card>
+    <_id>mouse</_id>
+    <_typeW>Noun</_typeW>
+    <_translate>
+      <string>мышь</string>
+    </_translate>
+  </Card>
+  <Card>
+    <_id>great</_id>
+    <_typeW>Adjective</_typeW>
+    <_translate>
+      <string>великолепный</string>
+    </_translate>
+  </Card>
+</ArrayOfCard>

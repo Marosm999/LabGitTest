@@ -1,0 +1,6 @@
+D:\Users\marosm\C#\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+D:\Users\marosm\C#\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Users\marosm\C#\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Users\marosm\C#\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Users\marosm\C#\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Users\marosm\C#\Lab1\Lab1\obj\Debug\Lab1.pdb

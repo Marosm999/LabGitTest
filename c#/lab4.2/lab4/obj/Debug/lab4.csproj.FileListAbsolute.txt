@@ -1,0 +1,46 @@
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.exe.config
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.exe
+D:\C#\ConsoleApplication2\lab4\bin\Debug\lab4.pdb
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.exe
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.pdb
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.Form1.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.FormCard.resources
+D:\C#\ConsoleApplication2\lab4\obj\Debug\lab4.TestForm.resources
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.Form1.resources
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.FormCard.resources
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.TestForm.resources
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.pdb
+C:\Users\Alex\Desktop\butlab3\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\Шарп\lab4.2\lab4\bin\Debug\lab4.exe.config
+D:\Шарп\lab4.2\lab4\bin\Debug\lab4.exe
+D:\Шарп\lab4.2\lab4\bin\Debug\lab4.pdb
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.Form1.resources
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.FormCard.resources
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.Properties.Resources.resources
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.TestForm.resources
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.exe
+D:\Шарп\lab4.2\lab4\obj\Debug\lab4.pdb
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\bin\Debug\lab4.exe.config
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\bin\Debug\lab4.exe
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\bin\Debug\lab4.pdb
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.Form1.resources
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.FormCard.resources
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.Properties.Resources.resources
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.TestForm.resources
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.csproj.GenerateResource.Cache
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.exe
+F:\ПОЛИТЕХ2\3 семестр\SHARP\lab4.2\lab4\obj\Debug\lab4.pdb
